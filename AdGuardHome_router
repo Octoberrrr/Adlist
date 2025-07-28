@@ -7767,3 +7767,10 @@ zpu.samsungelectronics.com
 ||clck.yandex.net^
 ||uniproxy.alice.yandex.net^
 ||quora.com^
+||ads.vk.com^$important
+||ads.tiktok.com^$important
+||graph.instagram.com^$important
+||ads-api.x.com^$important
+||ngfts.lge.com^$important
+||adlog.vivo.com^$important
+||incoming.telemetry.mozilla.org^$important
